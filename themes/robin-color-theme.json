@@ -194,8 +194,7 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"fontStyle": "underline",
-				"foreground": "#cc6666"
+				"foreground": "#1d1f21"
 			}
 		},
 		{
@@ -256,7 +255,7 @@
 				"support.constant.property-value"
 			],
 			"settings": {
-				"foreground": "#f0c674"
+				"foreground": "#de935f"
 			}
 		},
 		{
